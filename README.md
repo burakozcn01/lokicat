@@ -141,7 +141,6 @@ LokiCat respects your privacy:
 - ✅ No internet connection required
 - ✅ No third-party libraries with tracking
 - ✅ Zero knowledge architecture
-- ✅ Open source (coming soon)
 
 ## License
 
